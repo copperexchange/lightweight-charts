@@ -1,4 +1,4 @@
-/// <reference types="_build-time-constants" />
+//// <reference types="_build-time-constants" />
 
 import { upperbound } from '../helpers/algorithms';
 import { ensureDefined, ensureNotNull } from '../helpers/assertions';

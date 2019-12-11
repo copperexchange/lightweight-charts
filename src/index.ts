@@ -1,4 +1,4 @@
-/// <reference types="_build-time-constants" />
+//// <reference types="_build-time-constants" />
 
 export { LineStyle, LineType, LineWidth } from './renderers/draw-line';
 
